@@ -5,3 +5,11 @@ School Average Tracker is a simple and open-source Python Tkinter application wh
 ![screenshot](https://user-images.githubusercontent.com/84334654/191858203-9d1e647b-e054-439d-b8c2-d9b79e8c3bd2.png)
 
 All grades are stored in the data.singh file. Everything is displayed (as percentages) in the interface.py file.
+
+## Features
+- Add more grades to system
+- Display and keep track of grades
+- Calculate and keep track of average
+- Display motivational messages based on average
+
+You must exit the app the load it again to see changes made to system.
