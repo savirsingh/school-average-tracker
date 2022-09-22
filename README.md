@@ -12,4 +12,4 @@ All grades are stored in the data.singh file. Everything is displayed (as percen
 - Calculate and keep track of average
 - Display motivational messages based on average
 
-You must exit the app the load it again to see changes made to system.
+You must exit the app then load it again to see changes made to system.
